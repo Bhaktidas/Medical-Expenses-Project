@@ -3,6 +3,23 @@
 
 This project is designed to help medical professionals and patients manage and analyze medical expenses using Python. The project includes a set of scripts and modules for managing medical expense data, as well as a set of examples and tutorials to help users get started with analyzing and visualizing their own medical expenses.
 
+## Project Description
+
+The Medical Expenses Prediction is a Python project designed to predict the cost of medical expenses using data read from a file. The project aims to help insurance companies and healthcare providers to forecast medical costs accurately, allowing them to make informed decisions about pricing and resource allocation.
+
+The project will read data from a CSV file containing information on medical expenses, including the patient's age, sex, body mass index (BMI), smoking status, region, and the cost of medical expenses. The project will use machine learning algorithms, specifically regression models, to analyze the data and predict the cost of medical expenses based on the patient's characteristics.
+
+The project will use the Pandas library to read the CSV file and manipulate the data. The machine learning models will be implemented using the Scikit-learn library, providing a range of powerful tools for data analysis and prediction. The project will also include error handling and data validation to ensure that the data is entered and processed correctly.
+
+The Medical Expenses Prediction will be an open-source project, available on GitHub for anyone to download, use, and contribute to. The project will be compatible with Python 3.x and will run on Windows, macOS, and Linux.
+
+Overall, the Medical Expenses Prediction project aims to provide an accurate and reliable tool for predicting the cost of medical expenses, allowing insurance companies and healthcare providers to make informed decisions about pricing and resource allocation. By leveraging the power of machine learning, the project can help to optimize healthcare costs and improve patient outcomes.
+
+
+
+
+
+
 
 ## Installation
 
